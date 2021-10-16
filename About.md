@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Adam!
+- 👀 I’m interested in collaborating to explore new depths of learning the science behind the makings of digital procedures.
+- 🌱 I’m currently learning HTML,CSS,Nose.JS, JS.
+- 💞️ I’m looking to collaborate on all projects!
