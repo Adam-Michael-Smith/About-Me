@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Adam!
 - 👀 A passion for problem solving and implementing creative strategies to boost UX.
-- 🌱 I’m currently learning HTML,CSS,Node.JS, and Vanilla.
-- 💞️ I’m looking to collaborate on projects. UK. Please get in touch.
+- 🌱 I’m currently learning HTML, CSS, Node.JS, and Vanilla.
+- 💞️ I’m looking to collaborate on projects. Please get in touch.
